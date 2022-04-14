@@ -1,4 +1,4 @@
-package swearfilter
+package gofuckyourself
 
 import (
 	"testing"
