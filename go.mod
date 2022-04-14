@@ -1,4 +1,4 @@
-module gofuckyourself
+module github.com/nyarumes/gofuckyourself
 
 go 1.16
 
